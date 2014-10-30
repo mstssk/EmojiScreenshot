@@ -321,6 +321,8 @@ public class MyActivity extends Activity {
             "\uD83D\uDEB9", "\uD83D\uDEBA", "\uD83D\uDEBB", "\uD83D\uDEBC",
             "\uD83D\uDEBD", "\uD83D\uDEBE", "\uD83D\uDEBF", "\uD83D\uDEC0",
             "\uD83D\uDEC1", "\uD83D\uDEC2", "\uD83D\uDEC3", "\uD83D\uDEC4",
-            "\uD83D\uDEC5"};
+            "\uD83D\uDEC5",
+            "1\u20E3","2\u20E3","3\u20E3","4\u20E3","5\u20E3",
+            "6\u20E3","7\u20E3","8\u20E3","9\u20E3","0\u20E3","#\u20E3"};
 
 }
